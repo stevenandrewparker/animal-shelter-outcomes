@@ -1,1 +1,2 @@
 # animal-shelter-outcomes
+This project will analyze the outcomes faced by animals at the Austin Animal Shelter, and will seek to predict the likelihood an animal will face a certain outcome, as well as how long the shelter to expect to hold a given animal for.
