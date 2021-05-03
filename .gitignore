@@ -1,0 +1,7 @@
+# Exclude specifics
+/venv
+/.vscode
+
+# Exclude my own notes
+notes.md
+/notebooks
