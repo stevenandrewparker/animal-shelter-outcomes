@@ -2,6 +2,6 @@
 /venv
 /.vscode
 
-# Exclude my own notes
+# Exclude my own notes & experimenting
 notes.md
 /notebooks
