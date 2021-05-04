@@ -1,6 +1,10 @@
+# files in progress
+transform_data.py
+
 # exclude specifics
 /venv
 /.vscode
+__pycache__
 
 # exclude my own notes & experimenting
 notes.md
@@ -8,4 +12,4 @@ notes.md
 config.py
 
 # exclude raw data files
-/data/01-raw-data
+/data
