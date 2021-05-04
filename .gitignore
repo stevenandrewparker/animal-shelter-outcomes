@@ -1,7 +1,11 @@
-# Exclude specifics
+# exclude specifics
 /venv
 /.vscode
 
-# Exclude my own notes & experimenting
+# exclude my own notes & experimenting
 notes.md
 /notebooks
+config.py
+
+# exclude raw data files
+/data/01-raw-data
